@@ -5,9 +5,10 @@ In this repository, you can see source code of NYT Scraper. For experiencing, pl
 
 
 Technologies Used
-Node.js
-Express.js
-Handlebars.js
+  
+  Node.js
+  Express.js
+  Handlebars.js
 MongoDB
 Mongoose
 npm packages

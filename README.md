@@ -10,11 +10,11 @@ Technologies Used
   Express.js<br />
   Handlebars.js<br />
   MongoDB<br />
-  Mongoose
-  npm packages
-  body-parser
-  express
-  express-handlebars
-  mongoose
-  cheerio
-  request
+  Mongoose<br />
+  npm packages<br />
+  body-parser<br />
+  express<br />
+  express-handlebars<br />
+  mongoose<br />
+  cheerio<br />
+  request<br />

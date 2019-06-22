@@ -18,3 +18,6 @@ Technologies Used
   mongoose<br />
   cheerio<br />
   request<br />
+  ![Capture](https://user-images.githubusercontent.com/39536292/59965637-dd6bf080-94de-11e9-8ef8-908e629208cd.GIF)
+![Capture1](https://user-images.githubusercontent.com/39536292/59965638-dd6bf080-94de-11e9-9e1d-4685045bd423.GIF)
+
